@@ -1,4 +1,4 @@
-# Data-labeling-training-on-cats
+# Data labeling training on cats
 <p>At some point while diving deeper into automation processes you are faced with the need for data labeling, although just a couple of weeks ago, the phrases data labeling and you were standing at a party called “Earnings on the Internet” in different rooms. Or it would be better to say that you were standing by the pool, and the data labeling was on the third floor, smoking on the balcony with experts in the field of machine learning. How did we meet? Probably, someone pushed it off the balcony into the pool, and I helped it out, soaking my clothes along the way.</p>
 
 <p>And so, you are sitting in the kitchen, smoking one cigarette for two and trying to figure out what each of you do, and how you could be useful to each other.</p>
